@@ -1,0 +1,4 @@
+com\amazonaws\lambda\demo\CityWeatherResponse.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\amazonaws\lambda\demo\WeatherResponse.class
+com\amazonaws\lambda\demo\CityWeatherRequest.class
